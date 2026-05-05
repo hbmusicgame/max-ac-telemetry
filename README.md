@@ -69,3 +69,14 @@ This patch has been verified to work correctly with:
 
 This implementation is based on the Assetto Corsa Remote Telemetry protocol specification documented at:
 [Assetto Corsa Remote Telemetry Documentation](https://docs.google.com/document/d/1KfkZiIluXZ6mMhLWfDX1qAGbvhGRC3ZUzjVIt5FQpp4/pub)
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+MIT License permits:
+- ✓ Commercial use
+- ✓ Modification
+- ✓ Distribution
+- ✓ Private use
+
+Under the condition that you include the license and copyright notice.
